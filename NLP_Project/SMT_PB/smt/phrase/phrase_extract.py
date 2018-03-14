@@ -67,10 +67,10 @@ def strip_punctuation(s):
 if __name__ == '__main__':
 
     # test2
-    from smt.utils.utility import mkcorpus
-    from word_alignment import alignment
-    from smt.phrase.word_alignment import symmetrization
-    from smt.ibmmodel import ibmmodel2
+    from SMT_PB.smt.utils.utility import mkcorpus
+    from SMT_PB.smt.phrase.word_alignment import alignment
+    from SMT_PB.smt.phrase.word_alignment import symmetrization
+    from SMT_PB.smt.ibmmodel import ibmmodel2
     import sys
     import csv
     import pickle

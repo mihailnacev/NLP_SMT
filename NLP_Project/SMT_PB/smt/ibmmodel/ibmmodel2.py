@@ -2,8 +2,8 @@
 # coding:utf-8
 
 import collections
-from smt.ibmmodel import ibmmodel1
-from smt.utils import utility
+from SMT_PB.smt.ibmmodel import ibmmodel1
+from SMT_PB.smt.utils import utility
 import decimal
 from decimal import Decimal as D
 

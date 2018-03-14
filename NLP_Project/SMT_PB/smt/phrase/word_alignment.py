@@ -2,7 +2,7 @@
 # coding:utf-8
 
 from __future__ import division, print_function
-from smt.ibmmodel import ibmmodel2
+from SMT_PB.smt.ibmmodel import ibmmodel2
 from pprint import pprint
 
 

@@ -3,7 +3,7 @@
 
 from operator import itemgetter
 import collections
-from smt.utils import utility
+from SMT_PB.smt.utils import utility
 import decimal
 from decimal import Decimal as D
 
